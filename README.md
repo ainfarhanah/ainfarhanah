@@ -18,7 +18,7 @@
 💡 Always curious and open to learning — whether it's automating tasks, visualizing data, or exploring networks.
 
 📫 Let's connect!
-- LinkedIn: https//linkedin.com/in/norainfarhana
+- LinkedIn: https://linkedin.com/in/norainfarhana
 - Email: ainfarhanahamdan@gmail.com
 
 ---

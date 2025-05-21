@@ -1,16 +1,27 @@
-## Hi there 👋
+## Hi there! 👋 I'm Ain Farhana
 
-<!--
-**ainfarhanah/ainfarhanah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm a graduate in **Big Data Technology** and currently working in **Network Operations**.  
+📊 Passionate about **data analytics** and **network monitoring**, with certifications in:
+- Google Data Analytics Professional Certificate
+- IBM Data Analyst Professional Certificate
 
-Here are some ideas to get you started:
+💻 I’ve worked on:
+- Building dashboards for network monitoring using **PRTG**
+- Creating a data cleaning app and visualizations for GIS and mobile mapping data
+- A personal invoicing system for my mom’s school bus business using **Flask**, **HTML/CSS**, and **JavaScript**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📚 Currently learning:
+- Korean 🇰🇷 (preparing for TOPIK II!)
+- Python for Data Analysis
+- SQL & Tableau
+
+💡 Always curious and open to learning — whether it's automating tasks, visualizing data, or exploring networks.
+
+📫 Let's connect!
+- LinkedIn: https//linkedin.com/in/norainfarhana
+- Email: ainfarhanahamdan@gmail.com
+
+---
+
+> “Keep exploring, keep building, keep learning.” 💫
+

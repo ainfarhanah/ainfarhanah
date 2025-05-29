@@ -12,7 +12,6 @@
 - A personal invoicing system for my mom’s school bus business using **Flask**, **HTML/CSS**, and **JavaScript**
 
 📚 Currently learning:
-- Korean 🇰🇷 (preparing for TOPIK II!)
 - Laravel
 
 💡 Always curious and open to learning — whether it's automating tasks, visualizing data, or exploring networks.

@@ -22,5 +22,5 @@
 
 ---
 
-> “Keep exploring, keep building, keep learning.” 💫
+> “code, decode, recode” 💫
 

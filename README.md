@@ -19,8 +19,3 @@
 📫 Let's connect!
 - LinkedIn: https://linkedin.com/in/ainfarhanahamdan
 - Email: ainfarhanahamdan@gmail.com
-
----
-
-> “code, decode, recode” 💫
-
